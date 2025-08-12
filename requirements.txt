@@ -1,0 +1,12 @@
+# Python requirements for Blockgame
+# The turtle module is part of Python standard library
+# but may require additional system packages on some systems
+
+# System requirements (install via system package manager):
+# - On Ubuntu/Debian: sudo apt-get install python3-tk
+# - On CentOS/RHEL: sudo yum install tkinter
+# - On macOS: tkinter is usually included with Python
+# - On Windows: tkinter is usually included with Python
+
+# No external Python packages required currently
+# turtle graphics is included with Python standard library
