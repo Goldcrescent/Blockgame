@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/python/cpython/main/Lib/turtle.py
 
 # Demo
 
-https://test.pypi.org/project/Goldcrescent/0.0.1
+https://test.pypi.org/project/Goldcrescent/0.0.2
 
 ==__INSTRUCTIONS__==
 
