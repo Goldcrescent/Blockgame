@@ -1,7 +1,7 @@
 # Blockgame
 A block type game like minecraft, but not exactly(Kind of my own version of a skyblock game, but outside of Minecraft)
 
-https://raw.githubusercontent.com/python/cpython/main/Lib/turtle.py
+Blockgame only allows creators to steal, post for a different price or copy off the games code, BlockGame.co 2025
 
 # Demo
 
